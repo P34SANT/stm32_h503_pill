@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Member From Class: ClassName=KPILL Member=SW2
+Removed Member From Class: ClassName=KPILL Member=U3
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=PA0 Pin=J1-7
+Added Pin To Net: NetName=PA0 Pin=U1-8
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=J1-6
+Added Pin To Net: NetName=PA1 Pin=U1-9
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=J1-5
+Added Pin To Net: NetName=PA2 Pin=U1-10
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=J1-4
+Added Pin To Net: NetName=PA3 Pin=U1-11
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=J1-3
+Added Pin To Net: NetName=PA4 Pin=U1-12
+Added Net: Name=PA4

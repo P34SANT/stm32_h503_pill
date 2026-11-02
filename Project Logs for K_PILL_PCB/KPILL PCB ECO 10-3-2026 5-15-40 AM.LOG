@@ -1,0 +1,46 @@
+Added Component: Designator=R?(FP-AT0603-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Component: Designator=R?(FP-AT0603-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.063inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Member To Class: ClassName=KPILL Member=Component C6 2.2uF
+Added Member To Class: ClassName=KPILL Member=Component R? 10K
+Added Member To Class: ClassName=KPILL Member=Component R? 10K

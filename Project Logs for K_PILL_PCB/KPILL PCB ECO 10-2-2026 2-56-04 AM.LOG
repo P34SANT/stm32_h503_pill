@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=GND Pin=DS1-2
+Removed Pin From Net: NetName=+3V3 Pin=R4-1
+Removed Pin From Net: NetName=B7_SDA Pin=R4-2
+Removed Member From Class: ClassName=KPILL Member=DS1
+Removed Member From Class: ClassName=KPILL Member=R4
+Change Component Footprint: Designator=R1 Old Footprint=RES1206 New Footprint=FP-RNCP0603-IPC_C
+Change Component Footprint: Designator=R2 Old Footprint=RES1206 New Footprint=FP-RNCP0603-IPC_C
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=2.2K
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=86E02EA7-A5D0-4815-BF28-FCEA4E3D577D Old RevisionGUID= New RevisionGUID=E916B778-0B26-4E7D-9DBB-AB9CC5F59081
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=86E02EA7-A5D0-4815-BF28-FCEA4E3D577D Old RevisionGUID= New RevisionGUID=E916B778-0B26-4E7D-9DBB-AB9CC5F59081
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES1206"; UniqueID = "\VELZEJXN" ("\VELZEJXN")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "11.3kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES1206"; UniqueID = "\SUBLPOEV" ("\SUBLPOEV")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "11.3kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=D1(FP-SML-LX0603IW-TR-MFG)
+Add component (AddParameter): Name = "Approvals"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "0.061inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "14mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "50mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "160°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "635nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-RNCP0603-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "11.3kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Pin To Net: NetName=B7_SDA Pin=R2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R3-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=KPILL Member=Component D1 SML-LX0603IW-TR
+Added Member To Class: ClassName=KPILL Member=Component R3 2.2K

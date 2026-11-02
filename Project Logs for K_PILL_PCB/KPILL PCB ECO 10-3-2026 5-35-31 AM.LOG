@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PC13 Pin=D1-1
+Removed Pin From Net: NetName=PC14 Pin=SW2-1
+Added Pin To Net: NetName=PC14 Pin=D1-1
+Added Pin To Net: NetName=PC15 Pin=SW2-1
+Added Member To Class: ClassName=KPILL Member=Component C6 2.2uF

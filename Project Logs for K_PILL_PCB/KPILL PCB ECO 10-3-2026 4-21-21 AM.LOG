@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=USB_P Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=USB_N Pin=D1-3
+Removed Pin From Net: NetName=USB_P Pin=D1-4
+Removed Pin From Net: NetName=+5 Pin=D1-5
+Removed Pin From Net: NetName=USB_N Pin=D1-6
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-A1-B12
+Removed Pin From Net: NetName=+5 Pin=J1-A4-B9
+Removed Pin From Net: NetName=USB_P Pin=J1-A6
+Removed Pin From Net: NetName=USB_N Pin=J1-A7
+Removed Pin From Net: NetName=GND Pin=J1-B1-A12
+Removed Pin From Net: NetName=+5 Pin=J1-B4-A9
+Removed Pin From Net: NetName=USB_P Pin=J1-B6
+Removed Pin From Net: NetName=USB_N Pin=J1-B7
+Removed Pin From Net: NetName=PB10 Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Member From Class: ClassName=KPILL Member=D1
+Removed Member From Class: ClassName=KPILL Member=J1
+Removed Member From Class: ClassName=KPILL Member=R3
+Added Component: Designator=J?(TECO-1981568-5_V)
+Add component (AddParameter): Name = "Body Orientation"; Value = "RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "GoldOverNickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1/ContactA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.mouser.com/ds/2/418/NG_CD_1981568_E2-621296.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. E2, 08/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "RCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5POS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1Port"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max Deg. C"; Value = "85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min Deg. C"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch (mm)"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "5.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Method"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MicroUSB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating Max"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB10 Pin=J3-5
+Added Pin To Net: NetName=PB2 Pin=J3-6
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=USB_N Pin=J?-2
+Added Pin To Net: NetName=USB_P Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-11
+Change Net Name : Old Net Name=PB9 New Net Name=PBNON
+Added Member To Class: ClassName=KPILL Member=Component C6 2.2uF
+Added Member To Class: ClassName=KPILL Member=Component J? 1981568-1

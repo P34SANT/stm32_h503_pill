@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PB12 Pin=SW2-1
+Added Pin To Net: NetName=PC13 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=PC14 Pin=SW2-1
+Added Member To Class: ClassName=KPILL Member=Component C6 2.2uF
+Added Member To Class: ClassName=KPILL Member=Component D2 SML-LX0805UWC-TR
+Added Member To Class: ClassName=KPILL Member=Component R3 10K

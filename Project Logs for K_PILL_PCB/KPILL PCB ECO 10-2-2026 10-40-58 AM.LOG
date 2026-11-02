@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=PB9 Pin=J1-17
+Removed Pin From Net: NetName=C13 Pin=U1-8
+Removed Pin From Net: NetName=C14 Pin=U1-9
+Removed Pin From Net: NetName=A1 Pin=U1-12
+Removed Pin From Net: NetName=A2 Pin=U1-13
+Removed Pin From Net: NetName=B10 Pin=U1-22
+Removed Pin From Net: NetName=B12 Pin=U1-25
+Removed Pin From Net: NetName=B13 Pin=U1-26
+Removed Pin From Net: NetName=B14 Pin=U1-27
+Removed Pin From Net: NetName=B15 Pin=U1-28
+Removed Pin From Net: NetName=A5 Pin=U1-30
+Removed Pin From Net: NetName=A6 Pin=U1-31
+Removed Pin From Net: NetName=A7 Pin=U1-32
+Removed Pin From Net: NetName=A8 Pin=U1-33
+Removed Pin From Net: NetName=A9 Pin=U1-34
+Removed Pin From Net: NetName=A15 Pin=U1-39
+Removed Pin From Net: NetName=B7_SDA Pin=U1-45
+Removed Pin From Net: NetName=B8_SCL Pin=U1-46
+Added Component: Designator=P?(SMTC-MTSW-104-07-X-S-170)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/MTSW.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/MTSW-XXX-XX-X-X-XXXX-XX-XXX-MKT1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly .025" [.64] SQ Post Terminal Strip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MTSW-104-07-X-S-170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "BI, 2/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MTSW-104-07-G-S-170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWDIO Pin=P?-1
+Added Pin To Net: NetName=SWCLK Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=+3V3 Pin=P?-4
+Added Pin To Net: NetName=PB9 Pin=R3-1
+Added Pin To Net: NetName=PB9 Pin=U1-47
+Added Member To Class: ClassName=KPILL Member=Component P? MTSW-104-07-G-S-170

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=A11 Pin=U?-33
+Removed Pin From Net: NetName=A12 Pin=U?-34
+Removed Pin From Net: NetName=A15 Pin=U?-38
+Added Pin To Net: NetName=A11 Pin=U?-37
+Added Pin To Net: NetName=A12 Pin=U?-38
+Added Pin To Net: NetName=A15 Pin=U?-39
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 10pF
+Added Member To Class: ClassName=KPILL Member=Component C? 10pF

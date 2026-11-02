@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-4
+Removed Pin From Net: NetName=GND Pin=J?-5
+Removed Pin From Net: NetName=GND Pin=J?-6
+Removed Pin From Net: NetName=GND Pin=J?-7
+Removed Pin From Net: NetName=GND Pin=J?-8
+Removed Pin From Net: NetName=GND Pin=J?-9
+Removed Pin From Net: NetName=GND Pin=J?-10
+Removed Pin From Net: NetName=GND Pin=J?-11
+Removed Pin From Net: NetName=PA12 Pin=R1-2
+Removed Pin From Net: NetName=PA11 Pin=R2-2
+Removed Member From Class: ClassName=KPILL Member=J?
+Removed Member From Class: ClassName=KPILL Member=R1
+Removed Member From Class: ClassName=KPILL Member=R2
+Added Member To Class: ClassName=KPILL Member=Component C6 2.2uF

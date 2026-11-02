@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=A7 Pin=J1-2
+Removed Pin From Net: NetName=A5 Pin=J1-4
+Added Pin To Net: NetName=A5 Pin=J1-2
+Added Pin To Net: NetName=A7 Pin=J1-4
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 100nF
+Added Member To Class: ClassName=KPILL Member=Component C? 10pF
+Added Member To Class: ClassName=KPILL Member=Component C? 10pF

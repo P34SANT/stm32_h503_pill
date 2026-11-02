@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=PB12 Pin=J2-10
+Added Pin To Net: NetName=PB12 Pin=U1-25
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=J2-9
+Added Pin To Net: NetName=PB13 Pin=U1-26
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=J2-8
+Added Pin To Net: NetName=PB14 Pin=U1-27
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=J2-7
+Added Pin To Net: NetName=PB15 Pin=U1-28
+Added Net: Name=PB15

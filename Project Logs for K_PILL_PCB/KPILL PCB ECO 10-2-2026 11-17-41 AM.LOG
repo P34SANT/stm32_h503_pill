@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PA8 Pin=J2-5
+Added Pin To Net: NetName=PA8 Pin=U1-30
+Added Net: Name=PA8
+Added Pin To Net: NetName=PC6 Pin=J2-6
+Added Pin To Net: NetName=PC6 Pin=U1-29
+Added Net: Name=PC6

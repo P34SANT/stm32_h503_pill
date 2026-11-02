@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=KPILL Member=Component C6 2.2uF
+Added Member To Class: ClassName=KPILL Member=Component D1 SML-LX0805UWC-TR
+Added Member To Class: ClassName=KPILL Member=Component R1 10K
+Added Member To Class: ClassName=KPILL Member=Component R2 10K
+Added Member To Class: ClassName=KPILL Member=Component R5 10K
+Added Member To Class: ClassName=KPILL Member=Component R6 10K

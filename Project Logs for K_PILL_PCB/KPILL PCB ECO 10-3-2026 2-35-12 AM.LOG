@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=+3V3 Pin=U1-1
+Removed Pin From Net: NetName=PC13 Pin=U1-2
+Removed Pin From Net: NetName=PC14 Pin=U1-3
+Removed Pin From Net: NetName=PC15 Pin=U1-4
+Removed Pin From Net: NetName=MCU_OSC_IN Pin=U1-5
+Removed Pin From Net: NetName=MCU_OSC_OUT Pin=U1-6
+Removed Pin From Net: NetName=MCU_NRST Pin=U1-7
+Removed Pin From Net: NetName=PA0 Pin=U1-8
+Removed Pin From Net: NetName=PA1 Pin=U1-9
+Removed Pin From Net: NetName=PA2 Pin=U1-10
+Removed Pin From Net: NetName=PA3 Pin=U1-11
+Removed Pin From Net: NetName=PA4 Pin=U1-12
+Removed Pin From Net: NetName=PA5 Pin=U1-13
+Removed Pin From Net: NetName=PA6 Pin=U1-14
+Removed Pin From Net: NetName=PA7 Pin=U1-15
+Removed Pin From Net: NetName=PB0 Pin=U1-17
+Removed Pin From Net: NetName=PB1 Pin=U1-18
+Removed Pin From Net: NetName=+3V3 Pin=U1-20
+Removed Pin From Net: NetName=+3V3 Pin=U1-21
+Removed Pin From Net: NetName=PB10 Pin=U1-22
+Removed Pin From Net: NetName=+3V3 Pin=U1-23
+Removed Pin From Net: NetName=PB11 Pin=U1-24
+Removed Pin From Net: NetName=PB12 Pin=U1-25
+Removed Pin From Net: NetName=PB13 Pin=U1-26
+Removed Pin From Net: NetName=PB14 Pin=U1-27
+Removed Pin From Net: NetName=PB15 Pin=U1-28
+Removed Pin From Net: NetName=PA8 Pin=U1-30
+Removed Pin From Net: NetName=PA9 Pin=U1-31
+Removed Pin From Net: NetName=PA10 Pin=U1-32
+Removed Pin From Net: NetName=PA11 Pin=U1-33
+Removed Pin From Net: NetName=PA12 Pin=U1-34
+Removed Pin From Net: NetName=+3V3 Pin=U1-35
+Removed Pin From Net: NetName=SWDIO Pin=U1-36
+Removed Pin From Net: NetName=SWCLK Pin=U1-37
+Removed Pin From Net: NetName=PA15 Pin=U1-38
+Removed Pin From Net: NetName=PB3 Pin=U1-41
+Removed Pin From Net: NetName=PB4 Pin=U1-42
+Removed Pin From Net: NetName=PB5 Pin=U1-43
+Removed Pin From Net: NetName=PB6 Pin=U1-44
+Removed Pin From Net: NetName=B7_SDA Pin=U1-45
+Removed Pin From Net: NetName=B8_SCL Pin=U1-46
+Removed Pin From Net: NetName=PB9 Pin=U1-47
+Removed Pin From Net: NetName=+3V3 Pin=U1-48
+Removed Pin From Net: NetName=GND Pin=U1-49
+Removed Member From Class: ClassName=KPILL Member=U1
+Added Component: Designator=U?(LQFP48-7x7mm_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H503CBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP48-7x7mm_STM)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32H503CBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=KPILL Member=Component U? STM32H503CBT6
+Added Member To Class: ClassName=KPILL Member=Component U? STM32H503CBT6
